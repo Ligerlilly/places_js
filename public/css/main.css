@@ -1,0 +1,16 @@
+input {
+  margin-bottom: 1em;
+}
+
+.location {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.location:hover {
+  text-decortion: underline;
+}
+
+ul {
+  list-style: none;
+}
